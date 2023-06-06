@@ -10,7 +10,6 @@ export default function Detail({ restaurant }) {
       </header>
 
       <br />
-
       <main>
         <h2>Informasi Menu</h2>
 
